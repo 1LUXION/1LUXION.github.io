@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Immitaion Game"
+title:  "Immitation Game"
 ---
 
 ---
