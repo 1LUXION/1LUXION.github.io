@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "컴퓨터 전문가를 소재로 한 영화"
+title: "A Movie about Computer Experts"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
